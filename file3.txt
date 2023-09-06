@@ -1,0 +1,1 @@
+This is 3rd file and I'm going to merge it to master
